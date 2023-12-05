@@ -248,4 +248,4 @@ while True:
 ### *Hasil hanya sebagian dari fungsi program*
 
 ## Flowchart
-![Alt text](praktikum/flowchartp10.png)
+![Alt text](flowchart/Flowchart11.png)
